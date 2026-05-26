@@ -71,3 +71,27 @@ export default defineConfig([
   },
 ])
 ```
+# 🚀 Daily Task Planner
+
+A modern, efficient productivity tool designed to help you stay focused and consistent with your goals.
+
+## 🛠 Tech Stack
+- **Framework:** React
+- **Language:** TypeScript
+- **Styling:** Tailwind CSS
+- **Animations:** Framer Motion
+
+## ⚡ Features
+- **Task Management:** Add, track, and complete tasks with ease.
+- **Progress Tracking:** Visualize your daily achievements.
+- **Modern UI:** Clean, dark-mode supported interface for a better user experience.
+
+## 🚀 How to Run
+1. Clone this repository:
+   ```bash
+   git clone [https://github.com/aymenhamrouni332-lang/daily-task-planner.git](https://github.com/aymenhamrouni332-lang/daily-task-planner.git)
+## 🚀 How to Run
+1. Clone this repository:
+   ```bash
+   git clone [https://github.com/aymenhamrouni332-lang/daily-task-planner.git](https://github.com/aymenhamrouni332-lang/daily-task-planner.git)
+   npm install
